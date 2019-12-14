@@ -1,0 +1,9 @@
+Installera mingw-w64
+Så vi får MAKE
+Jag la det i 
+C:\mingw-w64\
+
+Makefile project
+
+
+Add file (makefile)
